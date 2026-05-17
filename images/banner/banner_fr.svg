@@ -1,0 +1,101 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"></stop>
+      <stop offset="1" stop-color="#111827"></stop>
+    </linearGradient>
+
+    <!-- Text Gradient -->
+    <linearGradient id="titleGradient" x1="0" y1="0" x2="500" y2="0">
+      <stop stop-color="#38BDF8"></stop>
+      <stop offset="1" stop-color="#A78BFA"></stop>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="1"></path>
+    </pattern>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="360" rx="24" fill="url(#bgGradient)"></rect>
+
+  <!-- Grid -->
+  <rect width="1200" height="360" fill="url(#grid)" opacity="0.25"></rect>
+
+  <!-- Animated Blurs -->
+  <circle cx="180" cy="80" r="120" fill="#38BDF8" opacity="0.08">
+    <animate attributeName="cx" values="180;220;180" dur="8s" repeatCount="indefinite"></animate>
+  </circle>
+
+  <circle cx="1020" cy="260" r="140" fill="#A78BFA" opacity="0.08">
+    <animate attributeName="cx" values="1020;980;1020" dur="10s" repeatCount="indefinite"></animate>
+  </circle>
+
+  <!-- Main Content -->
+  <g text-anchor="middle">
+
+    <!-- Name -->
+    <text x="600" y="115" font-family="Segoe UI, sans-serif" font-size="44" font-weight="700" fill="url(#titleGradient)" filter="url(#glow)">
+      Gaspar da Rosa Francisco
+    </text>
+
+    <!-- Roles -->
+    <text x="600" y="160" font-family="Segoe UI, sans-serif" font-size="22" fill="#CBD5E1" letter-spacing="0.5">
+      Ingénieur logiciel • Développeur full-stack • Scientifique des données
+    </text>
+
+    <!-- Divider -->
+    <line x1="390" y1="190" x2="810" y2="190" stroke="#334155" stroke-width="1.5"></line>
+
+    <!-- Values -->
+    <g transform="translate(330,215)">
+
+      <!-- Faith -->
+      <rect x="0" y="0" width="150" height="42" rx="21" fill="#38BDF8" opacity="0.12"></rect>
+      <text x="75" y="27" font-family="Segoe UI, sans-serif" font-size="18" text-anchor="middle" fill="#7DD3FC">
+        Fois
+      </text>
+
+      <!-- Discipline -->
+      <rect x="185" y="0" width="170" height="42" rx="21" fill="#A78BFA" opacity="0.12"></rect>
+      <text x="270" y="27" font-family="Segoe UI, sans-serif" font-size="18" text-anchor="middle" fill="#C4B5FD">
+        Discipline
+      </text>
+
+      <!-- Optimism -->
+      <rect x="390" y="0" width="160" height="42" rx="21" fill="#22C55E" opacity="0.12"></rect>
+      <text x="470" y="27" font-family="Segoe UI, sans-serif" font-size="18" text-anchor="middle" fill="#86EFAC">
+        Optimisme
+      </text>
+
+    </g>
+
+    <!-- Contact Divider -->
+    <line x1="250" y1="295" x2="950" y2="295" stroke="#1E293B" stroke-width="1"></line>
+
+    <!-- Contacts -->
+    <text x="600" y="325" font-family="Segoe UI, sans-serif" font-size="15" fill="#94A3B8">
+      📧 gaspardarosafrancisco@gmail.com
+      •
+      🌐 github.com/Gasparfgf
+      •
+      💼 linkedin.com/in/gaspar-francisco-gasparfgf
+    </text>
+
+  </g>
+
+</svg>
