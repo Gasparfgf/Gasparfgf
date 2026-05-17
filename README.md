@@ -77,10 +77,12 @@ Passionate about building scalable applications, clean architectures and user-ce
 <details> 
   <summary><h2>:computer: &nbsp;Technical stack</h2></summary>
 
-<h3>☄️ Application Server</h3>
+<h3>☄️ Application Server and OS</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75.svg?&style=flat&logo=apachetomcat&logoColor=black" alt="apache tomcat logo"/> · 
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75.svg?&style=flat&logo=apachetomcat&logoColor=black" alt="apache tomcat logo"/> . 
+  <img src="https://img.shields.io/badge/GNU%20BASH-4EAA25.svg?&style=flat&logo=androidstudio&logoColor=white" alt="bash logo"/> · 
+  <img src="https://img.shields.io/badge/LINUX-FCC624.svg?&style=flat&logo=linux&logoColor=black" alt="linux logo"/> · 
   <img src="https://img.shields.io/badge/Payara-F1A84E.svg?&style=flat&logoColor=white" alt="Payara logo"/>
 </p>
 
@@ -168,17 +170,7 @@ Passionate about building scalable applications, clean architectures and user-ce
 
 <h3>🛠️ Tools</h3>
 
-<p align="center">
- <img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"> · 
-  <img src="https://img.shields.io/badge/FIGMA-F24E1E.svg?&style=flat&logo=figma&logoColor=white" alt="figma logo"/> . 
-  <img src="https://img.shields.io/badge/GNU%20BASH-4EAA25.svg?&style=flat&logo=androidstudio&logoColor=white" alt="bash logo"/> · 
-  <img src="https://img.shields.io/badge/LINUX-FCC624.svg?&style=flat&logo=linux&logoColor=black" alt="linux logo"/> · 
- <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"> . 
-  <img src="https://img.shields.io/badge/POSTMAN-FF6C37.svg?&style=flat&logo=postman&logoColor=white" alt="postman logo"/><!-- . 
- <img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white">-->
-</p>
-
-**⚙️ Integrated Development Environment (IDE)**
+* **⚙️ Integrated Development Environment (IDE)**
 
 <p align="center">
   <img src="https://img.shields.io/badge/ANDROID%20STUDIO-02569B.svg?&style=flat&logo=androidstudio&logoColor=white" alt="android studio logo"/> · 
@@ -189,13 +181,24 @@ Passionate about building scalable applications, clean architectures and user-ce
  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>-->
 </p>
 
-**✨ Versionning**
+* **✨ Versionning**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F03C2E.svg?&style=flat&logo=git&logoColor=white" alt="git logo"/> · 
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=github&logoColor=white" alt="github logo"/> · 
   <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=flat&logo=gitlab&logoColor=white" alt="gitlab logo"/>
 </p>
+
+* **Others**:
+
+<p align="center">
+ <img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"> · 
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E.svg?&style=flat&logo=figma&logoColor=white" alt="figma logo"/> · 
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"> . 
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37.svg?&style=flat&logo=postman&logoColor=white" alt="postman logo"/><!-- . 
+ <img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white">-->
+</p>
+
 </details>
 
 ---
