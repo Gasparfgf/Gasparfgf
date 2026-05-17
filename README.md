@@ -2,7 +2,7 @@
   <img src="images/banner.svg" width="100%" />
 </p>
 <!--
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, i'm Gaspar Francisco</h1>
+<h1 align="center">Hi <img src="wave.gif" width="29px">, i'm Gaspar Francisco</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
 🌍 -->
 
@@ -48,9 +48,9 @@ Passionate about building scalable applications, clean architectures and user-ce
 
 * 🤝 Strong believer in collaboration and non-violent communication
 
-* 🐧 Linux enthusiast
+* 🐧 Linux is the best
 
-* 🚀 Interested in backend engineering, frontend UX, DevOps, and data visualization
+* 💓 Interested in backend engineering, frontend UX, DevOps, and data analysis / visualization
 
 <h3>:brain: &nbsp;My Engineering Philosophy</h3>
 
