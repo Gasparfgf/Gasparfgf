@@ -81,8 +81,8 @@ Passionate about building scalable applications, clean architectures and user-ce
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75.svg?&style=flat&logo=apachetomcat&logoColor=black" alt="apache tomcat logo"/> . 
-  <img src="https://img.shields.io/badge/GNU%20BASH-4EAA25.svg?&style=flat&logo=androidstudio&logoColor=white" alt="bash logo"/> · 
-  <img src="https://img.shields.io/badge/LINUX-FCC624.svg?&style=flat&logo=linux&logoColor=black" alt="linux logo"/> · 
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?&style=flat&logo=androidstudio&logoColor=white" alt="bash logo"/> · 
+  <img src="https://img.shields.io/badge/Linux_(Ubuntu)-FCC624.svg?&style=flat&logo=linux&logoColor=black" alt="linux logo"/> · 
   <img src="https://img.shields.io/badge/Payara-F1A84E.svg?&style=flat&logoColor=white" alt="Payara logo"/>
 </p>
 
