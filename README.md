@@ -193,6 +193,7 @@ Passionate about building scalable applications, clean architectures and user-ce
 **At a Glance** :
 
 | **Value** |       **Metric**       |
+|-----------|------------------------|
 |     4     | Programming Languages  |
 |     10+   | Frameworks & Libraries |
 |     3     | Database Paradigms     |
