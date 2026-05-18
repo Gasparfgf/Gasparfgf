@@ -190,6 +190,13 @@ Passionate about building scalable applications, clean architectures and user-ce
 
 </details>
 
+**At a Glance** :
+
+| **Value** |       **Metric**       |
+|     4     | Programming Languages  |
+|     10+   | Frameworks & Libraries |
+|     3     | Database Paradigms     |
+
 ---
 
 <details> 
@@ -247,7 +254,6 @@ These are technologies i had contact with (using or learning) :
 </p>
 
 <p align="center">
- <!--<img src="https://github-readme-stats-fast.vercel.app/api?username=gasparfgf&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Gaspar's GitHub Stats" height="180" />-->
  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gasparfgf&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Gaspar's Top Languages" height="192" />
 </p>
   
@@ -258,12 +264,6 @@ These are technologies i had contact with (using or learning) :
 <p align="center">
  <img alt="Gaspar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Gasparfgf&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
  </p>
-<!--
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=gasparfgf&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/gasparfgf/gasparfgf?color=black&logo=github" />
-</p>
--->
   </details>
 </details>
 
