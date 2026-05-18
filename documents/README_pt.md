@@ -200,6 +200,14 @@ gosto de combinar bases técnicas sólidas com comunicação, colaboração e ap
 
 </details>
 
+**Resumo**:
+
+| **Valor** |          **Métrica**         |
+|-----------|------------------------------|
+|     4     | Linguagens de Programação    |
+|     10+   | Frameworks & Bibliotecas     |
+|     3     | Paradigmas de Banco de Dados |
+
 ---
 
 <details> 
