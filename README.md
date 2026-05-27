@@ -35,7 +35,7 @@ Passionate about building scalable applications, clean architectures and user-ce
 
 * ⚡ Fun fact ***You can hate computers and end up loving them and making them your passion.***
 
-* 🤝 Strong believer in collaboration and non-violent communication
+* 🤝 Strong believer in collaboration and non-violent communication.
 
 * 🐧 Linux is the best
 
