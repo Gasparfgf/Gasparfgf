@@ -58,7 +58,7 @@ Passionné par la création d'applications évolutives, d'architectures propres 
 ## <img src="../images/message.gif?raw=true" width="50" />&nbsp;&nbsp; 
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=Le%20chemin%20du%20succès%20ets%20pavé%20d'échecs.&type=horizontal&border=true&quoteColor=ffffff&author=Gaspar%20Francisco%20(eu)&symbolColor=345678&backgroundColor=150458" alt="Ma citation" />
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Le%20chemin%20du%20succès%20est%20pavé%20d'échecs.&type=horizontal&border=true&quoteColor=ffffff&author=Gaspar%20Francisco%20(moi)&symbolColor=345678&backgroundColor=150458" alt="Ma citation" />
 </p>
 
 ---
@@ -139,7 +139,7 @@ Passionné par la création d'applications évolutives, d'architectures propres 
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?&style=flat&logo=tailwindcss&logoColor=white" alt="tailwindcss logo"/>
 </p>
 
-<h3>✍️ Linguagens de programação</h3>
+<h3>✍️ Langages de programmation</h3>
 
 <p align="center">
  <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"> · 
@@ -149,17 +149,17 @@ Passionné par la création d'applications évolutives, d'architectures propres 
   <img src="https://img.shields.io/badge/Type_Script-3178C6.svg?&style=flat&logo=typescript&logoColor=white" alt="typescript logo"/>
 </p>
 
-<h3>🧰 Metodologias</h3>
+<h3>🧰 Méthodologies</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvimento_orientado_para_o_domínio%20(DDD)-02569B.svg?&style=flat&logo=ddd&logoColor=white" alt="Desenvolvimento orientado para o domínio"/> · 
+  <img src="https://img.shields.io/badge/Développement_piloté_par_le_domaine%20(DDD)-02569B.svg?&style=flat&logo=ddd&logoColor=white" alt="Développement piloté par le domaine"/> · 
   <img src="https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white" alt="scrum" /> · 
-  <img src="https://img.shields.io/badge/Desenvolvimento%20orientado%20a%20testes%20(TDD)-E34F26.svg?&style=flat&logo=tdd&logoColor=white" alt="Desenvolvimento orientado a testes"/>
+  <img src="https://img.shields.io/badge/Développement%20piloté%20par%20les%20tests%20(TDD)-E34F26.svg?&style=flat&logo=tdd&logoColor=white" alt="Développement piloté par les tests"/>
 </p>
 
-<h3>🛠️ Ferramentas</h3>
+<h3>🛠️ Outils</h3>
 
-* **⚙️ Ambientes de Desenvolvimento Integrado**
+* **⚙️ Environnement de Développement Intégré (IDE)**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android%20Studio-02569B.svg?&style=flat&logo=androidstudio&logoColor=white" alt="android studio logo"/> · 
@@ -170,7 +170,7 @@ Passionné par la création d'applications évolutives, d'architectures propres 
  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>-->
 </p>
 
-* **✨ Controlo de versões**
+* **✨ Versionnage**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F03C2E.svg?&style=flat&logo=git&logoColor=white" alt="git logo"/> · 
@@ -178,7 +178,7 @@ Passionné par la création d'applications évolutives, d'architectures propres 
   <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=flat&logo=gitlab&logoColor=white" alt="gitlab logo"/>
 </p>
 
-* **Outros**
+* **Autres**
 
 <p align="center">
  <img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"> · 
@@ -190,13 +190,13 @@ Passionné par la création d'applications évolutives, d'architectures propres 
 
 </details>
 
-**Resumo**:
+**Aperçu**:
 
-| **Valor** |          **Métrica**         |
-|-----------|------------------------------|
-|     4     | Linguagens de Programação    |
-|     10+   | Frameworks & Bibliotecas     |
-|     3     | Paradigmas de Banco de Dados |
+| **Valeur** |            **Métrique**        |
+|------------|--------------------------------|
+|     4      | Langages de programmation      |
+|     10+    | Frameworks & bibliothèques     |
+|     3      | Paradigmes de bases de données |
 
 ---
 
