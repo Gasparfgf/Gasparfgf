@@ -23,7 +23,7 @@ Passionné par la création d'applications évolutives, d'architectures propres 
 
  <h3>📄 Informations rapides</h3>
 
-- 🔭 Je travaille actuellement sur <a href="https://github.com/Gasparfgf/anti-gaspillage/tree/main" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Anti_desperdício-8A2BE2" alt="Anti-desperdício"/> </a>
+- 🔭 Je travaille actuellement sur <a href="https://github.com/Gasparfgf/anti-gaspillage/tree/main" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Anti_gaspillage-8A2BE2" alt="Anti-gaspillage"/> </a>
 
 - 🌱 J'apprends actuellement **Apache Airflow et Science des Données.**.
 
@@ -58,15 +58,15 @@ Passionné par la création d'applications évolutives, d'architectures propres 
 ## <img src="../images/message.gif?raw=true" width="50" />&nbsp;&nbsp; 
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=O%20caminho%20para%20o%20sucesso%20é%20pavimentado%20com%20fracassos.&type=horizontal&border=true&quoteColor=ffffff&author=Gaspar%20Francisco%20(eu)&symbolColor=345678&backgroundColor=150458" alt="A minha citação" />
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Le%20chemin%20du%20succès%20ets%20pavé%20d'échecs.&type=horizontal&border=true&quoteColor=ffffff&author=Gaspar%20Francisco%20(eu)&symbolColor=345678&backgroundColor=150458" alt="Ma citation" />
 </p>
 
 ---
 
 <details> 
-  <summary><h2>:computer: &nbsp;Conjunto técnico</h2></summary>
+  <summary><h2>:computer: &nbsp;Pile technique</h2></summary>
 
-<h3>☄️ Servidor de aplicações e sistema operativo</h3>
+<h3>☄️ Serveur d'applications et système d'exploitation</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75.svg?&style=flat&logo=apachetomcat&logoColor=black" alt="apache tomcat logo"/> . 
@@ -75,14 +75,14 @@ Passionné par la création d'applications évolutives, d'architectures propres 
   <img src="https://img.shields.io/badge/Payara-F1A84E.svg?&style=flat&logoColor=white" alt="Payara logo"/>
 </p>
 
-<h3>🏢 Arquitetura</h3>
+<h3>🏢 Architecture</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arquitetura-Limpa-6DB33F.svg?&style=flat&logoColor=white" alt="Arquitetura limpa"/> · 
-  <img src="https://img.shields.io/badge/Padrões_de_projeto-6DB77F.svg?&style=flat&logoColor=white" alt="Padrões de projeto"/> · 
-  <a href="https://github.com/Gasparfgf/java-projects/tree/main/bame" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Arquitetura-Hexagonal-2496ED.svg?&style=flat&logoColor=white" alt="Arquitetura Hexagonal"/> </a> · 
-  <img src="https://img.shields.io/badge/Arquitetura-MVC_/_MVA-876543.svg?&style=flat&logoColor=white" alt="Arquitetura MVC / MVA"/> · 
-  <img src="https://img.shields.io/badge/Arquitetura-MVVM-345678.svg?&style=flat&logoColor=white" alt="Arquitetura MVVM"/>
+  <img src="https://img.shields.io/badge/Clean-Architecture-6DB33F.svg?&style=flat&logoColor=white" alt="code propre"/> · 
+  <img src="https://img.shields.io/badge/Modèles_de_conception-6DB77F.svg?&style=flat&logoColor=white" alt="Modèles de conception"/> · 
+  <a href="https://github.com/Gasparfgf/java-projects/tree/main/bame" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Architecture-Hexagonale-2496ED.svg?&style=flat&logoColor=white" alt="Architecture Hexagonale"/> </a> · 
+  <img src="https://img.shields.io/badge/Architecture-MVC_/_MVA-876543.svg?&style=flat&logoColor=white" alt="Architecture MVC / MVA"/> · 
+  <img src="https://img.shields.io/badge/Architecture-MVVM-345678.svg?&style=flat&logoColor=white" alt="Architecture MVVM"/>
 </p>
 
 <h3>🚀 Backend</h3>
@@ -100,7 +100,7 @@ Passionné par la création d'applications évolutives, d'architectures propres 
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=spring&logoColor=white" alt="spring logo"/> 
 </p>
 
-<h3>🔍 Análise de Dados (visualização) | Ciência de Dados</h3>
+<h3>🔍 Analyse de données (visualisation) | Science des données</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Charba-25C2A0.svg?&style=flat&logo=chart.js&logoColor=white" alt="charba logo"/> · 
@@ -111,7 +111,7 @@ Passionné par la création d'applications évolutives, d'architectures propres 
   <img src="https://img.shields.io/badge/Talend-FF6D70.svg?&style=flat&logo=talend&logoColor=white" alt="Talend logo"/>
 </p>
 
-<h3>🗄️ Banco de dados</h3>
+<h3>🗄️ Base de données</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white" alt="mongodb logo"/> · 
