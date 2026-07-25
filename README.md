@@ -103,7 +103,7 @@ Passionate about building scalable applications, clean architectures and user-ce
 <h3>🔍 Data Analytics (visualization) | Data Science</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Charba-25C2A0.svg?&style=flat&logo=chart.js&logoColor=white" alt="charba logo"/> · 
+  <!--<img src="https://img.shields.io/badge/Charba-25C2A0.svg?&style=flat&logo=chart.js&logoColor=white" alt="charba logo"/> · -->
   <img src="https://img.shields.io/badge/Chart_JS-FF6384.svg?&style=flat&logo=chart.js&logoColor=white" alt="chart.js logo"/> · 
  <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"> . 
   <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=pandas" alt="Pandas logo"/> · 
