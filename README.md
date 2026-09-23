@@ -123,10 +123,20 @@ Passionate about building scalable applications, clean architectures, user-cente
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=spring&logoColor=white" alt="spring logo"/> 
 </p>-->
 
-<h3>🔍 Data Analytics (visualization) | Data Science</h3>
+<h3>🔍 Data Analytics (visualization) | Data Engineer | Data Science</h3>
+
+* Apache Airflow
+
+* Charba, Chart.js
+
+* Numpy, Pandas
+
+* Power BI
+
+* Talend (basics)
 
 <!--<p align="center">
-  <!--<img src="https://img.shields.io/badge/Charba-25C2A0.svg?&style=flat&logo=chart.js&logoColor=white" alt="charba logo"/> · -->
+  <!--<img src="https://img.shields.io/badge/Charba-25C2A0.svg?&style=flat&logo=chart.js&logoColor=white" alt="charba logo"/> · 
   <img src="https://img.shields.io/badge/Chart_JS-FF6384.svg?&style=flat&logo=chart.js&logoColor=white" alt="chart.js logo"/> · 
  <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"> . 
   <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=pandas" alt="Pandas logo"/> · 
@@ -136,6 +146,12 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <h3>🗄️ Database</h3>
 
+* Mongo DB
+
+* MySQL
+
+* PostgreSQL
+
 <!--<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white" alt="mongodb logo"/> · 
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white" alt="mysql logo"/> · 
@@ -143,6 +159,10 @@ Passionate about building scalable applications, clean architectures, user-cente
 </p>-->
 
 <h3>⚡ DevOps</h3>
+
+* CI/CD
+
+* Docker
 
 <!--<p align="center">
   <img src="https://img.shields.io/badge/CircleCI-343434.svg?&style=flat&logo=circleci&logoColor=white" alt="circleci logo"/> · 
