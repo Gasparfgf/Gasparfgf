@@ -5,7 +5,7 @@
 ---
 
 <p>
-Passionate about building scalable applications, clean architectures and user-centered digital experiences,
+Passionate about building scalable applications, clean architectures, user-centered digital experiences and data,
  i enjoy combining strong technical foundations with communication, collaboration, and continuous learning.
 </p>
 
@@ -23,11 +23,11 @@ Passionate about building scalable applications, clean architectures and user-ce
 
  <h3>📄 Quick informations</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/Gasparfgf/anti-gaspillage/tree/main" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Anti_gaspillage-8A2BE2" alt="Anti-gaspillage"/> </a>.
+- 🔭 I’m currently working on <a href="https://github.com/Gasparfgf/weeding" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Anti_gaspillage-8A2BE2" alt="Wedding invitation"/></a>.
 
-- 🌱 I’m currently learning **Apache Airflow and Data Science**.
+- 🌱 I’m currently learning **Data Analysis**.
 
-- :space_invader:&nbsp;All of my projects are available at <a href="https://github.com/Gasparfgf" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="Home (Git repositories)"/> </a>
+- :space_invader:&nbsp;All of my projects are available at <a href="https://github.com/Gasparfgf" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-repository-blue?logo=github" alt="Home (Git repositories)"/> </a>
 
 - 📫 [How to reach me](#connect-with-me)
 
@@ -43,13 +43,13 @@ Passionate about building scalable applications, clean architectures and user-ce
 
 <h3>:brain: &nbsp;My engineering philosophy</h3>
 
-* **Non-Violent Communication** — I believe clear, empathetic dialogue is foundational to productive engineering teams.
+* **Non-violent communication** — I believe clear, empathetic dialogue is foundational to productive engineering teams.
 
-* **Clean Code by Design** — Readable, well-structured code is not a luxury — it is a professional standard.
+* **Clean code by design** — Readable, well-structured code is not a luxury — it is a professional standard.
 
-* **Continuous Learning** — The field evolves constantly. Staying curious and humble is part of the craft.
+* **Continuous learning** — The field evolves constantly. Staying curious and humble is part of the craft.
 
-* **Collaboration Over Competition** — The best solutions emerge from teams that listen, share knowledge, and build trust.
+* **Collaboration over competition** — The best solutions emerge from teams that listen, share knowledge, and build trust.
 
 </details>
 
