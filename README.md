@@ -179,7 +179,7 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 * HTML
 
-* Next.js
+* React.js, Next.js
 
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Angular-0F0F11.svg?&style=flat&logo=angular" alt="angular logo"/> · 
@@ -291,21 +291,24 @@ These are technologies i had contact with (using or learning) :
 
 * **🗄️ Database**:
 
-* 
-<p align="center">
+  * Cassandra
+  * Firebase
+
+<!--<p align="center">
   <img src="https://img.shields.io/badge/Cassandra-1287B1.svg?&style=flat&logo=apache-cassandra&logoColor=white" alt="Cassandra logo"/> · 
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=firebase&logoColor=black" alt="firebase logo"/>
-</p>
-
-* **📺 Frontend**:
-
-<p align="center">
- <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-</p>
+</p>-->
 
 * **✍️ Programming languages**:
 
-<p align="center">
+  * Ada
+  * C, C++
+  * Dart
+  * Kotlin
+  * Ocaml
+  * PHP
+  * Rust
+<!--<p align="center">
   <img src="https://img.shields.io/badge/Ada-000000.svg?&style=flat&logo=ada&logoColor=white" alt="ada logo"/> · 
   <img src="https://img.shields.io/badge/-A8B9CC.svg?&style=flat&logo=c&logoColor=white" alt="c logo"/> · 
   <img src="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=cplusplus&logoColor=white" alt="cpp logo"/> · 
@@ -314,22 +317,25 @@ These are technologies i had contact with (using or learning) :
   <img src="https://img.shields.io/badge/OCaml-EC6813.svg?&style=flat&logo=ocaml&logoColor=white" alt="ocaml logo"/> · 
   <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white" alt="php logo"/> · 
   <img src="https://img.shields.io/badge/Rust-0175C2.svg?&style=flat&logo=rust&logoColor=white" alt="rust logo"/>
-</p>
+</p>-->
 
 * **Mobile**:
 
-<p align="center">
+  * Android
+<!--<p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=android&logoColor=white" alt="android logo"/> · 
   <img src="https://img.shields.io/badge/Flutter-02569B.svg?&style=flat&logo=flutter&logoColor=white" alt="flutter logo"/>
-</p>
+</p>-->
 
 * **Others**:
 
-<p align="center">
+  * Apache Hadoop
+  * Arduino
+<!--<p align="center">
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?&style=flat&logo=apachehadoop&logoColor=black" alt="apache hadoop logo"/> · 
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat&logo=github-actions&logoColor=white" alt="github actions logo"/> · 
   <img src="https://img.shields.io/badge/Arduino-00878F.svg?&style=flat&logo=arduino&logoColor=white" alt="arduino logo"/> 
-</p>
+</p>-->
 </details>
 
 <details> 
