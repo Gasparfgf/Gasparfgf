@@ -55,8 +55,8 @@
 
     <!-- Roles -->
     <text x="600" y="160" font-family="Segoe UI, sans-serif" font-size="22" fill="#CBD5E1" letter-spacing="0.5">
-      Software Engineer • Full-Stack Developer • Data Analyst
-    </text>
+      Software Engineer
+    </text><!-- • Full-Stack Developer • Data Analyst -->
 
     <!-- Divider -->
     <line x1="390" y1="190" x2="810" y2="190" stroke="#334155" stroke-width="1.5"></line>
@@ -88,13 +88,39 @@
     <line x1="250" y1="295" x2="950" y2="295" stroke="#1E293B" stroke-width="1"></line>
 
     <!-- Contacts -->
-    <text x="600" y="325" font-family="Segoe UI, sans-serif" font-size="15" fill="#94A3B8">
+    <text
+      x="590"
+      y="325"
+      font-family="Segoe UI, sans-serif"
+      font-size="15"
+      fill="#94A3B8"
+      text-anchor="middle"
+    >
+      <a href="mailto:gaspardarosafrancisco@gmail.com">
+        <tspan>📧 gaspardarosafrancisco@gmail.com</tspan>
+      </a>
+
+      <tspan> • </tspan>
+
+      <a href="https://github.com/Gasparfgf" target="_blank">
+        <tspan>🌐 github.com/Gasparfgf</tspan>
+      </a>
+
+      <tspan> • </tspan>
+
+      <a href="https://www.linkedin.com/in/gaspar-francisco-gasparfgf" target="_blank">
+        <tspan>💼 linkedin.com/in/gaspar-francisco-gasparfgf</tspan>
+      </a>
+    </text>
+
+
+    <!--<text x="600" y="325" font-family="Segoe UI, sans-serif" font-size="15" fill="#94A3B8">
       📧 gaspardarosafrancisco@gmail.com
       •
       🌐 github.com/Gasparfgf
       •
       💼 linkedin.com/in/gaspar-francisco-gasparfgf
-    </text>
+    </text>-->
 
   </g>
 
