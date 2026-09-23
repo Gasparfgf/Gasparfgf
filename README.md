@@ -281,14 +281,14 @@ These are technologies i had contact with (using or learning) :
 ## <img src="images/letterbox.gif?raw=true" width="25" />&nbsp;&nbsp;Connect with me
 
 <p align="center">
-  <a href="mailto:gaspardarosafrancisco@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gaspar-francisco-gasparfgf" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:gaspardarosafrancisco@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gaspar-francisco-gasparfgf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
 
 <p align="right">
-  <sub>Last updated · 16 / 05 / 2026 · Open to collaborations & opportunities</sub>
+  <sub>Last updated · 23 / 09 / 2026 · Open to collaborations & opportunities</sub>
 </p>
 
 <!--
