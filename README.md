@@ -171,6 +171,16 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <h3>📺 Frontend</h3>
 
+* Angular.js
+
+* Bootstrap, CSS, Tailwind CSS
+
+* GWT, Domino UI
+
+* HTML
+
+* Next.js
+
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Angular-0F0F11.svg?&style=flat&logo=angular" alt="angular logo"/> · 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat&logo=bootstrap&logoColor=white" alt="bootstrap logo" /> · 
@@ -184,6 +194,14 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <h3>✍️ Programming languages</h3>
 
+* Java
+
+* JavaScript
+
+* Python
+
+* TypeScript
+
 <!--<p align="center">
  <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"> · 
   <img src="https://img.shields.io/badge/Java Script-F7DF1E.svg?&style=flat&logo=javascript&logoColor=white" alt="javascript logo"/> · 
@@ -194,6 +212,12 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <h3>🧰 Methodologies</h3>
 
+* Domain Driven Development
+
+* SCRUM - agile
+
+* Test Driven Development
+
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Domain%20Driven%20Development-02569B.svg?&style=flat&logo=ddd&logoColor=white" alt="DDD logo"/> · 
   <img src="https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white" alt="scrum" /> · 
@@ -202,7 +226,12 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <h3>🛠️ Tools</h3>
 
-* **⚙️ Integrated Development Environment (IDE)**
+<!--* **⚙️ Integrated Development Environment (IDE)**
+  * Android Studio
+  * Eclipse
+  * IntelliJ
+  * PyCharm
+  * Visual Studio Code
 
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Android%20Studio-02569B.svg?&style=flat&logo=androidstudio&logoColor=white" alt="android studio logo"/> · 
@@ -210,10 +239,12 @@ Passionate about building scalable applications, clean architectures, user-cente
   <img src="https://img.shields.io/badge/IntelliJ-000000.svg?&style=flat&logo=intellij-idea" alt="intellij-idea logo"/> · 
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=pycharm" alt="pycharm logo"/> · 
   <img src="https://img.shields.io/badge/Visual_tudio_Code-007ACC.svg?&style=flat&logo=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual-studio-code logo"/>
- <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>-->
 
 * **✨ Versionning**
+
+  * Git, GitHub, GitLab
 
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Git-F03C2E.svg?&style=flat&logo=git&logoColor=white" alt="git logo"/> · 
@@ -223,13 +254,23 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 * **Others**
 
+  * DBeaver
+
+  * Figma
+
+  * Markdown
+
+  * Postman
+
+  * SonarLint
+
 <!--<p align="center">
  <img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"> · 
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=figma&logoColor=white" alt="figma logo"/> · 
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"> . 
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=flat&logo=postman&logoColor=white" alt="postman logo"/><!-- . 
  <img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white">
-</p>-->-->
+</p>-->
 
 </details>
 
@@ -239,7 +280,7 @@ Passionate about building scalable applications, clean architectures, user-cente
 |-----------|------------------------|
 |     4     | Programming Languages  |
 |     10+   | Frameworks & Libraries |
-|     3     | Database Paradigms     |
+|     2     | Database Paradigms     |
 
 ---
 
@@ -250,6 +291,7 @@ These are technologies i had contact with (using or learning) :
 
 * **🗄️ Database**:
 
+* 
 <p align="center">
   <img src="https://img.shields.io/badge/Cassandra-1287B1.svg?&style=flat&logo=apache-cassandra&logoColor=white" alt="Cassandra logo"/> · 
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=firebase&logoColor=black" alt="firebase logo"/>
