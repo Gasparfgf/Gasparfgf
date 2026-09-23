@@ -66,28 +66,51 @@ Passionate about building scalable applications, clean architectures, user-cente
 <details> 
   <summary><h2>:computer: &nbsp;Technical stack</h2></summary>
 
-<h3>☄️ Application server and operating system</h3>
+<!--<h3>☄️ Application server and operating system</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75.svg?&style=flat&logo=apachetomcat&logoColor=black" alt="apache tomcat logo"/> . 
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?&style=flat&logo=androidstudio&logoColor=white" alt="bash logo"/> · 
   <img src="https://img.shields.io/badge/Linux_(Ubuntu)-FCC624.svg?&style=flat&logo=linux&logoColor=black" alt="linux logo"/> · 
   <img src="https://img.shields.io/badge/Payara-F1A84E.svg?&style=flat&logoColor=white" alt="Payara logo"/>
-</p>
+</p>-->
 
-<h3>🏢 Architecture</h3>
+<h3>🏢 Architecture:</h3>
 
-<p align="center">
+* Clean architecture
+
+* Design patterns
+
+* <a href="https://github.com/Gasparfgf/java-projects/tree/main/bame" target="_blank" rel="noreferrer">Hexagonal architecture</a>
+
+* MVC / MVA architecture
+
+<!--<p align="center">
   <img src="https://img.shields.io/badge/Clean-Architecture-6DB33F.svg?&style=flat&logoColor=white" alt="Clean Architecture"/> · 
   <img src="https://img.shields.io/badge/Design_Patterns-6DB77F.svg?&style=flat&logoColor=white" alt="Design_Patterns"/> · 
   <a href="https://github.com/Gasparfgf/java-projects/tree/main/bame" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Hexagonal-Architecture-2496ED.svg?&style=flat&logoColor=white" alt="Hexagonal Architecture"/> </a> · 
   <img src="https://img.shields.io/badge/MVC_/_MVA-Architecture-876543.svg?&style=flat&logoColor=white" alt="MVC / MVA Architecture"/> · 
   <img src="https://img.shields.io/badge/MVVM-Architecture-345678.svg?&style=flat&logoColor=white" alt="MVVM Architecture"/>
-</p>
+</p>-->
 
 <h3>🚀 Backend</h3>
 
-<p align="center">
+* Express.js, Node.js
+
+* Gradle, Maven
+
+* Hibernate
+
+* JavaEE
+
+* JUnit
+
+* Rest API, Web socket
+
+* Spring Boot
+
+
+<!--<p align="center">
   <img src="https://img.shields.io/badge/Express_JS-339933.svg?&style=flat&logo=express&logoColor=white" alt="express logo"/> · 
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?&style=flat&logo=gradle" alt="Gradle logo"/> · 
   <img src="https://img.shields.io/badge/Hibernate-121011.svg?&style=flat&logo=red-hat&logoColor=white" alt="Hibernate (ORM) logo"/> · 
@@ -98,37 +121,37 @@ Passionate about building scalable applications, clean architectures, user-cente
   <img src="https://img.shields.io/badge/REST%20API-02569B.svg?&style=flat&logo=rest" alt="REST API"/> · 
   <img src="https://img.shields.io/badge/Socket.io-010101.svg?&style=flat&logo=socket.io" alt="socket.io"/> · 
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=spring&logoColor=white" alt="spring logo"/> 
-</p>
+</p>-->
 
 <h3>🔍 Data Analytics (visualization) | Data Science</h3>
 
-<p align="center">
+<!--<p align="center">
   <!--<img src="https://img.shields.io/badge/Charba-25C2A0.svg?&style=flat&logo=chart.js&logoColor=white" alt="charba logo"/> · -->
   <img src="https://img.shields.io/badge/Chart_JS-FF6384.svg?&style=flat&logo=chart.js&logoColor=white" alt="chart.js logo"/> · 
  <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"> . 
   <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=pandas" alt="Pandas logo"/> · 
   <img src="https://img.shields.io/badge/Power_BI-F2C811.svg?&style=flat&logo=powerbi" alt="Power BI logo"/> · 
   <img src="https://img.shields.io/badge/Talend-FF6D70.svg?&style=flat&logo=talend&logoColor=white" alt="Talend logo"/>
-</p>
+</p>-->
 
 <h3>🗄️ Database</h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white" alt="mongodb logo"/> · 
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white" alt="mysql logo"/> · 
   <img src="https://img.shields.io/badge/PostegreSQL-4169E1.svg?&style=flat&logo=postgresql&logoColor=white" alt="postgresql logo"/> 
-</p>
+</p>-->
 
 <h3>⚡ DevOps</h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://img.shields.io/badge/CircleCI-343434.svg?&style=flat&logo=circleci&logoColor=white" alt="circleci logo"/> · 
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white" alt="docker"/>
-</p>
+</p>-->
 
 <h3>📺 Frontend</h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://img.shields.io/badge/Angular-0F0F11.svg?&style=flat&logo=angular" alt="angular logo"/> · 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat&logo=bootstrap&logoColor=white" alt="bootstrap logo" /> · 
   <img src="https://img.shields.io/badge/CSS-663399.svg?&style=flat&logo=css" alt="css3 logo"/> · 
@@ -137,56 +160,56 @@ Passionate about building scalable applications, clean architectures, user-cente
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white" alt="html5 logo"/> · 
   <img src="https://img.shields.io/badge/Next_JS-000000.svg?&style=flat&logo=next.js" alt="nextjs logo"/> · 
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?&style=flat&logo=tailwindcss&logoColor=white" alt="tailwindcss logo"/>
-</p>
+</p>-->
 
 <h3>✍️ Programming languages</h3>
 
-<p align="center">
+<!--<p align="center">
  <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"> · 
   <img src="https://img.shields.io/badge/Java Script-F7DF1E.svg?&style=flat&logo=javascript&logoColor=white" alt="javascript logo"/> · 
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" alt="python logo"/> · 
  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"> . 
   <img src="https://img.shields.io/badge/Type Script-3178C6.svg?&style=flat&logo=typescript&logoColor=white" alt="typescript logo"/>
-</p>
+</p>-->
 
 <h3>🧰 Methodologies</h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://img.shields.io/badge/Domain%20Driven%20Development-02569B.svg?&style=flat&logo=ddd&logoColor=white" alt="DDD logo"/> · 
   <img src="https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white" alt="scrum" /> · 
   <img src="https://img.shields.io/badge/Test%20Driven%20Development%20(TDD)-E34F26.svg?&style=flat&logo=tdd&logoColor=white" alt="tdd"/>
-</p>
+</p>-->
 
 <h3>🛠️ Tools</h3>
 
 * **⚙️ Integrated Development Environment (IDE)**
 
-<p align="center">
+<!--<p align="center">
   <img src="https://img.shields.io/badge/Android%20Studio-02569B.svg?&style=flat&logo=androidstudio&logoColor=white" alt="android studio logo"/> · 
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=flat&logo=eclipse" alt="eclipse logo"/> · 
   <img src="https://img.shields.io/badge/IntelliJ-000000.svg?&style=flat&logo=intellij-idea" alt="intellij-idea logo"/> · 
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=pycharm" alt="pycharm logo"/> · 
   <img src="https://img.shields.io/badge/Visual_tudio_Code-007ACC.svg?&style=flat&logo=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual-studio-code logo"/>
- <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>-->
-</p>
+ <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</p>-->
 
 * **✨ Versionning**
 
-<p align="center">
+<!--<p align="center">
   <img src="https://img.shields.io/badge/Git-F03C2E.svg?&style=flat&logo=git&logoColor=white" alt="git logo"/> · 
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=github&logoColor=white" alt="github logo"/> · 
   <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=flat&logo=gitlab&logoColor=white" alt="gitlab logo"/>
-</p>
+</p>-->
 
 * **Others**
 
-<p align="center">
+<!--<p align="center">
  <img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"> · 
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=figma&logoColor=white" alt="figma logo"/> · 
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"> . 
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=flat&logo=postman&logoColor=white" alt="postman logo"/><!-- . 
- <img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white">-->
-</p>
+ <img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white">
+</p>-->-->
 
 </details>
 
