@@ -77,12 +77,15 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <h3>🏢 Architecture:</h3>
 
-<ul align="center">
-    <li>Clean architecture</li>
-    <li>Design patterns</li>
-    <li><a href="https://github.com/Gasparfgf/java-projects/tree/main/bame" target="_blank" rel="noreferrer">Hexagonal architecture</a></li>
-    <li>MVC / MVA architecture</li>
-</ul>
+<div align="center">
+    Clean architecture
+
+    Design patterns
+
+    <a href="https://github.com/Gasparfgf/java-projects/tree/main/bame" target="_blank" rel="noreferrer">Hexagonal architecture</a>
+
+    MVC / MVA architecture
+</div>
 
 
 <!--<p align="center">
@@ -95,19 +98,21 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <h3>🚀 Backend</h3>
 
-* Express.js, Node.js
+<div align="center">
+    Express.js, Node.js
 
-* Gradle, Maven
+    Gradle, Maven
 
-* Hibernate
+    Hibernate
 
-* JavaEE
+    JavaEE
 
-* JUnit
+    JUnit
 
-* Rest API, Web socket
+    Rest API, Web socket
 
-* Spring Boot
+    Spring Boot
+<div>
 
 
 <!--<p align="center">
@@ -125,16 +130,17 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <h3>🔍 Data Analytics (visualization) | Data Engineer | Data Science</h3>
 
-* Apache Airflow
+<div align="center">
+    Apache Airflow
 
-* Charba, Chart.js
+    Charba, Chart.js
 
-* Numpy, Pandas
+    Numpy, Pandas
 
-* Power BI
+    Power BI
 
-* Talend (basics)
-
+    Talend (basics)
+<div>
 <!--<p align="center">
   <!--<img src="https://img.shields.io/badge/Charba-25C2A0.svg?&style=flat&logo=chart.js&logoColor=white" alt="charba logo"/> · 
   <img src="https://img.shields.io/badge/Chart_JS-FF6384.svg?&style=flat&logo=chart.js&logoColor=white" alt="chart.js logo"/> · 
@@ -146,12 +152,13 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <h3>🗄️ Database</h3>
 
-* Mongo DB
+<div align="center">
+    Mongo DB
 
-* MySQL
+    MySQL
 
-* PostgreSQL
-
+    PostgreSQL
+<div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white" alt="mongodb logo"/> · 
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white" alt="mysql logo"/> · 
@@ -160,10 +167,11 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <h3>⚡ DevOps</h3>
 
-* CI/CD
+<div align="center">
+    CI/CD
 
-* Docker
-
+    Docker
+<div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/CircleCI-343434.svg?&style=flat&logo=circleci&logoColor=white" alt="circleci logo"/> · 
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white" alt="docker"/>
@@ -171,16 +179,17 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <h3>📺 Frontend</h3>
 
-* Angular.js
+<div align="center">
+    Angular.js
 
-* Bootstrap, CSS, Tailwind CSS
+    Bootstrap, CSS, Tailwind CSS
 
-* GWT, Domino UI
+    GWT, Domino UI
 
-* HTML
+    HTML
 
-* React.js, Next.js
-
+    React.js, Next.js
+<div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Angular-0F0F11.svg?&style=flat&logo=angular" alt="angular logo"/> · 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat&logo=bootstrap&logoColor=white" alt="bootstrap logo" /> · 
@@ -194,14 +203,15 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <h3>✍️ Programming languages</h3>
 
-* Java
+<div align="center">
+    Java
 
-* JavaScript
+    JavaScript
 
-* Python
+    Python
 
-* TypeScript
-
+    TypeScript
+<div align="center">
 <!--<p align="center">
  <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"> · 
   <img src="https://img.shields.io/badge/Java Script-F7DF1E.svg?&style=flat&logo=javascript&logoColor=white" alt="javascript logo"/> · 
@@ -212,12 +222,13 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <h3>🧰 Methodologies</h3>
 
-* Domain Driven Development
+<div align="center">
+    Domain Driven Development
 
-* SCRUM - agile
+    SCRUM - agile
 
-* Test Driven Development
-
+    Test Driven Development
+<div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Domain%20Driven%20Development-02569B.svg?&style=flat&logo=ddd&logoColor=white" alt="DDD logo"/> · 
   <img src="https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white" alt="scrum" /> · 
@@ -226,13 +237,15 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <h3>🛠️ Tools</h3>
 
-<!--* **⚙️ Integrated Development Environment (IDE)**
-  * Android Studio
-  * Eclipse
-  * IntelliJ
-  * PyCharm
-  * Visual Studio Code
+* **⚙️ Integrated Development Environment (IDE)**
 
+<div align="center">
+    Android Studio
+    Eclipse
+    IntelliJ
+    PyCharm
+    Visual Studio Code
+<div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Android%20Studio-02569B.svg?&style=flat&logo=androidstudio&logoColor=white" alt="android studio logo"/> · 
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=flat&logo=eclipse" alt="eclipse logo"/> · 
@@ -244,8 +257,9 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 * **✨ Versionning**
 
-  * Git, GitHub, GitLab
-
+<div align="center">
+    Git, GitHub, GitLab
+<div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Git-F03C2E.svg?&style=flat&logo=git&logoColor=white" alt="git logo"/> · 
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=github&logoColor=white" alt="github logo"/> · 
@@ -254,16 +268,17 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 * **Others**
 
-  * DBeaver
+<div align="center">
+    DBeaver
 
-  * Figma
+    Figma
 
-  * Markdown
+    Markdown
 
-  * Postman
+    Postman
 
-  * SonarLint
-
+    SonarLint
+<div>
 <!--<p align="center">
  <img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"> · 
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=figma&logoColor=white" alt="figma logo"/> · 
@@ -291,9 +306,10 @@ These are technologies i had contact with (using or learning) :
 
 * **🗄️ Database**:
 
-  * Cassandra
-  * Firebase
-
+<div align="center">
+    Cassandra
+    Firebase
+<div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Cassandra-1287B1.svg?&style=flat&logo=apache-cassandra&logoColor=white" alt="Cassandra logo"/> · 
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=firebase&logoColor=black" alt="firebase logo"/>
@@ -301,13 +317,15 @@ These are technologies i had contact with (using or learning) :
 
 * **✍️ Programming languages**:
 
-  * Ada
-  * C, C++
-  * Dart
-  * Kotlin
-  * Ocaml
-  * PHP
-  * Rust
+<div align="center">
+    Ada
+    C, C++
+    Dart
+    Kotlin
+    Ocaml
+    PHP
+    Rust
+<div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Ada-000000.svg?&style=flat&logo=ada&logoColor=white" alt="ada logo"/> · 
   <img src="https://img.shields.io/badge/-A8B9CC.svg?&style=flat&logo=c&logoColor=white" alt="c logo"/> · 
@@ -321,7 +339,9 @@ These are technologies i had contact with (using or learning) :
 
 * **Mobile**:
 
-  * Android
+<div align="center">
+    Android
+<div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=android&logoColor=white" alt="android logo"/> · 
   <img src="https://img.shields.io/badge/Flutter-02569B.svg?&style=flat&logo=flutter&logoColor=white" alt="flutter logo"/>
@@ -329,8 +349,10 @@ These are technologies i had contact with (using or learning) :
 
 * **Others**:
 
-  * Apache Hadoop
-  * Arduino
+<div align="center">
+    Apache Hadoop
+    Arduino
+<div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?&style=flat&logo=apachehadoop&logoColor=black" alt="apache hadoop logo"/> · 
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat&logo=github-actions&logoColor=white" alt="github actions logo"/> · 
