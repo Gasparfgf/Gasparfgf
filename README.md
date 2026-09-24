@@ -112,7 +112,7 @@ Passionate about building scalable applications, clean architectures, user-cente
     Rest API, Web socket
 
     Spring Boot
-<div>
+</div>
 
 
 <!--<p align="center">
@@ -140,7 +140,7 @@ Passionate about building scalable applications, clean architectures, user-cente
     Power BI
 
     Talend (basics)
-<div>
+</div>
 <!--<p align="center">
   <!--<img src="https://img.shields.io/badge/Charba-25C2A0.svg?&style=flat&logo=chart.js&logoColor=white" alt="charba logo"/> · 
   <img src="https://img.shields.io/badge/Chart_JS-FF6384.svg?&style=flat&logo=chart.js&logoColor=white" alt="chart.js logo"/> · 
@@ -158,7 +158,7 @@ Passionate about building scalable applications, clean architectures, user-cente
     MySQL
 
     PostgreSQL
-<div>
+</div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white" alt="mongodb logo"/> · 
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white" alt="mysql logo"/> · 
@@ -171,7 +171,7 @@ Passionate about building scalable applications, clean architectures, user-cente
     CI/CD
 
     Docker
-<div>
+</div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/CircleCI-343434.svg?&style=flat&logo=circleci&logoColor=white" alt="circleci logo"/> · 
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white" alt="docker"/>
@@ -189,7 +189,7 @@ Passionate about building scalable applications, clean architectures, user-cente
     HTML
 
     React.js, Next.js
-<div>
+</div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Angular-0F0F11.svg?&style=flat&logo=angular" alt="angular logo"/> · 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat&logo=bootstrap&logoColor=white" alt="bootstrap logo" /> · 
@@ -211,7 +211,7 @@ Passionate about building scalable applications, clean architectures, user-cente
     Python
 
     TypeScript
-<div align="center">
+</div>
 <!--<p align="center">
  <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"> · 
   <img src="https://img.shields.io/badge/Java Script-F7DF1E.svg?&style=flat&logo=javascript&logoColor=white" alt="javascript logo"/> · 
@@ -228,7 +228,7 @@ Passionate about building scalable applications, clean architectures, user-cente
     SCRUM - agile
 
     Test Driven Development
-<div>
+</div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Domain%20Driven%20Development-02569B.svg?&style=flat&logo=ddd&logoColor=white" alt="DDD logo"/> · 
   <img src="https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white" alt="scrum" /> · 
@@ -245,7 +245,7 @@ Passionate about building scalable applications, clean architectures, user-cente
     IntelliJ
     PyCharm
     Visual Studio Code
-<div>
+</div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Android%20Studio-02569B.svg?&style=flat&logo=androidstudio&logoColor=white" alt="android studio logo"/> · 
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=flat&logo=eclipse" alt="eclipse logo"/> · 
@@ -259,7 +259,7 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <div align="center">
     Git, GitHub, GitLab
-<div>
+</div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Git-F03C2E.svg?&style=flat&logo=git&logoColor=white" alt="git logo"/> · 
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=github&logoColor=white" alt="github logo"/> · 
@@ -278,7 +278,7 @@ Passionate about building scalable applications, clean architectures, user-cente
     Postman
 
     SonarLint
-<div>
+</div>
 <!--<p align="center">
  <img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"> · 
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=figma&logoColor=white" alt="figma logo"/> · 
@@ -309,7 +309,7 @@ These are technologies i had contact with (using or learning) :
 <div align="center">
     Cassandra
     Firebase
-<div>
+</div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Cassandra-1287B1.svg?&style=flat&logo=apache-cassandra&logoColor=white" alt="Cassandra logo"/> · 
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=firebase&logoColor=black" alt="firebase logo"/>
@@ -325,7 +325,7 @@ These are technologies i had contact with (using or learning) :
     Ocaml
     PHP
     Rust
-<div>
+</div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Ada-000000.svg?&style=flat&logo=ada&logoColor=white" alt="ada logo"/> · 
   <img src="https://img.shields.io/badge/-A8B9CC.svg?&style=flat&logo=c&logoColor=white" alt="c logo"/> · 
@@ -341,7 +341,7 @@ These are technologies i had contact with (using or learning) :
 
 <div align="center">
     Android
-<div>
+</div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=android&logoColor=white" alt="android logo"/> · 
   <img src="https://img.shields.io/badge/Flutter-02569B.svg?&style=flat&logo=flutter&logoColor=white" alt="flutter logo"/>
@@ -352,7 +352,7 @@ These are technologies i had contact with (using or learning) :
 <div align="center">
     Apache Hadoop
     Arduino
-<div>
+</div>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?&style=flat&logo=apachehadoop&logoColor=black" alt="apache hadoop logo"/> · 
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat&logo=github-actions&logoColor=white" alt="github actions logo"/> · 
