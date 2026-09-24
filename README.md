@@ -77,16 +77,15 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <h3>🏢 Architecture:</h3>
 
-<table>
-  <tr>
-    <td>• Clean architecture</td>
-    <td>• Design patterns</td>
-  </tr>
-  <tr>
-    <td>• <a href="https://github.com/Gasparfgf/java-projects/tree/main/bame">Hexagonal architecture</a></td>
-    <td>• MVC / MVA architecture</td>
-  </tr>
-</table>
+<div align="center">
+    • Clean architecture
+
+    • Design patterns
+
+    • <a href="https://github.com/Gasparfgf/java-projects/tree/main/bame" target="_blank" rel="noreferrer">Hexagonal architecture</a>
+
+    • MVC / MVA architecture
+</div>
 
 
 <!--<p align="center">
