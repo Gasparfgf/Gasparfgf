@@ -33,7 +33,7 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 - 🎯 My goal is to build useful things as a senior full-stack software engineer and help organizations make strategic decisions as a data scientist and analyst.
 
-* ⚡ Fun fact ***You can hate computers and end up loving them and making them your passion.***
+* ⚡ Fun fact: ***You can hate computers and end up loving them and making them your passion.***
 
 * 🤝 Strong believer in collaboration and non-violent communication.
 
@@ -77,13 +77,17 @@ Passionate about building scalable applications, clean architectures, user-cente
 
 <h3>🏢 Architecture:</h3>
 
-* Clean architecture
+<table>
+  <tr>
+    <td>• Clean architecture</td>
+    <td>• Design patterns</td>
+  </tr>
+  <tr>
+    <td>• <a href="https://github.com/Gasparfgf/java-projects/tree/main/bame">Hexagonal architecture</a></td>
+    <td>• MVC / MVA architecture</td>
+  </tr>
+</table>
 
-* Design patterns
-
-* <a href="https://github.com/Gasparfgf/java-projects/tree/main/bame" target="_blank" rel="noreferrer">Hexagonal architecture</a>
-
-* MVC / MVA architecture
 
 <!--<p align="center">
   <img src="https://img.shields.io/badge/Clean-Architecture-6DB33F.svg?&style=flat&logoColor=white" alt="Clean Architecture"/> · 
